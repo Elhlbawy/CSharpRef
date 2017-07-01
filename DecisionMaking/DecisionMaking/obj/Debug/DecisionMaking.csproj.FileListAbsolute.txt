@@ -1,0 +1,6 @@
+c:\users\abo juwairya\documents\visual studio 2017\Projects\DecisionMaking\DecisionMaking\bin\Debug\DecisionMaking.exe.config
+c:\users\abo juwairya\documents\visual studio 2017\Projects\DecisionMaking\DecisionMaking\bin\Debug\DecisionMaking.exe
+c:\users\abo juwairya\documents\visual studio 2017\Projects\DecisionMaking\DecisionMaking\bin\Debug\DecisionMaking.pdb
+c:\users\abo juwairya\documents\visual studio 2017\Projects\DecisionMaking\DecisionMaking\obj\Debug\DecisionMaking.csprojResolveAssemblyReference.cache
+c:\users\abo juwairya\documents\visual studio 2017\Projects\DecisionMaking\DecisionMaking\obj\Debug\DecisionMaking.exe
+c:\users\abo juwairya\documents\visual studio 2017\Projects\DecisionMaking\DecisionMaking\obj\Debug\DecisionMaking.pdb
